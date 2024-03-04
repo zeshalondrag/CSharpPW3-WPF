@@ -1,0 +1,30 @@
+C:\Users\yaney\source\repos\Audio Player\Audio Player\bin\Debug\net8.0-windows\Audio Player.exe
+C:\Users\yaney\source\repos\Audio Player\Audio Player\bin\Debug\net8.0-windows\Audio Player.deps.json
+C:\Users\yaney\source\repos\Audio Player\Audio Player\bin\Debug\net8.0-windows\Audio Player.runtimeconfig.json
+C:\Users\yaney\source\repos\Audio Player\Audio Player\bin\Debug\net8.0-windows\Audio Player.dll
+C:\Users\yaney\source\repos\Audio Player\Audio Player\bin\Debug\net8.0-windows\Audio Player.pdb
+C:\Users\yaney\source\repos\Audio Player\Audio Player\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\yaney\source\repos\Audio Player\Audio Player\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\yaney\source\repos\Audio Player\Audio Player\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\Audio Player.csproj.AssemblyReference.cache
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\Audio Player_MarkupCompile.cache
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\Audio Player_MarkupCompile.lref
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\App.baml
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\Audio Player.g.resources
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\Audio Player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\Audio Player.AssemblyInfoInputs.cache
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\Audio Player.AssemblyInfo.cs
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\Audio Player.csproj.CoreCompileInputs.cache
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\Audio Pl.804F2889.Up2Date
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\Audio Player.dll
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\refint\Audio Player.dll
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\Audio Player.pdb
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\Audio Player.genruntimeconfig.cache
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\ref\Audio Player.dll
+C:\Users\yaney\source\repos\Audio Player\Audio Player\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\yaney\source\repos\Audio Player\Audio Player\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\HistoryWindow.g.cs
+C:\Users\yaney\source\repos\Audio Player\Audio Player\obj\Debug\net8.0-windows\HistoryWindow.baml
